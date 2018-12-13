@@ -10,7 +10,7 @@ Bitcoin Cash across websites, apps and services.
 ## Installing and Using
 
 You may use the [gateway.cash](https://gateway.cash) website to create an
-account and use the payment ubtton. If you don't want an account with us,
+account and use the payment button. If you don't want an account with us,
 you can also simply pass a BCH address to the button in place of the merchant ID
 field.
 
